@@ -8,3 +8,8 @@ let isFollowing = true // boolean
 
 console.log(typeof "Mugdha");
 console.log(typeof null);
+//datatypes notes
+//primitive(7) ; string, number , boolean, null, undefined, symbol, BigInt
+
+//reference(non primitive) : array,objects, functions
+
