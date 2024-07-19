@@ -12,4 +12,9 @@ console.log(typeof null);
 //primitive(7) ; string, number , boolean, null, undefined, symbol, BigInt
 
 //reference(non primitive) : array,objects, functions
+//************Memory in Javascript**************
+//stack used for (primitive) and heaps(reference)
+/* in stack we get copy of the primitive datatype but in heaps all the changes
+is being done in the original data or basically it refers to the original data */
+
 
