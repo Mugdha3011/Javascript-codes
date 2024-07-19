@@ -7,4 +7,16 @@ let value = Number(score)//here score's datatype would be number as we converted
 console.log(typeof value);
 /* "12"-> 12 , "12abc"-> NaN(not a number), "true"= 1, "null"= 0*/
 
-/**********OPerations  */
+/**********OPerations 
+basic maths operations including add , sub , expo , mod , div , multiply*/
+let str1 = "Mugdha"
+let str2 = "Choudhary"
+let str3 = str1 + str2
+console.log(str3);
+
+console.log(true)//op-> true
+console.log(+true) //op-> 1
+
+
+
+
